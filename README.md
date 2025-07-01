@@ -12,8 +12,11 @@ Currently building: *StratForge* -- A Config-Driven Suite for to build, test, an
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Contact 
-[Email](mailto:vikas.katari23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vikas-katari-264652347/)
+## Contact
+- [Email](mailto:vikas.katari23@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/vikas-katari-264652347/)
+
+
 
 
 
