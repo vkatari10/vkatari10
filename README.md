@@ -1,7 +1,8 @@
 # Hey, I'm Vikas
 
-- CS + Math Student | Interested in bridging finance with programming in my projects
-- Currently building: *StratForge* -- A Config-Driven Suite for to build, test, and deploy ML based trading bots. 
+- CS + Math Student 
+- Interested in programming and finance
+- Currently building: **ConTrade**: A configurable ML trading platform.
 
 ## Languages 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
